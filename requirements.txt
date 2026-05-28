@@ -3,3 +3,5 @@ python-dotenv
 langchain-community
 langchain-core
 streamlit
+streamlit-mic-recorder
+gtts
